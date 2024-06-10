@@ -1,5 +1,3 @@
-Python solutions for Computer Networks' assignments.
-
 ## [Token Ring](TokenRing.ipynb)
 This code simulates a network of calculators that can send messages to each other. The network is implemented as a circular list of Calculator objects, each with a unique IP address generated randomly within the valid range (0-255).
 
